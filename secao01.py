@@ -7,3 +7,4 @@ soma = num01 + num02
 multiplicacao = soma * num01
 
 print('O resultado da multiplicação é:', multiplicacao)
+
